@@ -7,6 +7,11 @@ An AI-powered content-based movie recommendation system built using the TMDB 500
 - Uses movie overview, genres, keywords, cast & director
 - Streamlit web interface
 - Fast similarity search using cosine similarity
+  ## 🌐 Live Demo
+
+👉 Click here to try the app:  
+https://tmdb-movie-recommendergit-xtkaast6xfpshqddz6ftbr.streamlit.app/
+
 
 ## 🛠️ Tech Stack
 - Python
